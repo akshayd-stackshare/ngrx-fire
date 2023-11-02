@@ -1,4 +1,4 @@
-# NgrxFire
+   # NgrxFire
 
 NgrxFire is a redux demo app created with Angular ngrx and Firebase. Including Firebase Google OAuth and the Realtime Database. 
 
